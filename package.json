@@ -1,11 +1,13 @@
 {
   "name": "author-likes-movie",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
+    "lerna": "^3.4.3",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "^2.1.1",
+    "yarn": "^1.12.3"
   },
   "scripts": {
     "start": "react-scripts start",
