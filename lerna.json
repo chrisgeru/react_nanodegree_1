@@ -8,5 +8,7 @@
     "ignoreChanges": [
       "*.md"
     ]
-  }
+  },
+  "npmClient": "yarn",
+  "useWorkspaces": true
 }
