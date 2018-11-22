@@ -1,5 +1,5 @@
 {
-  "name": "world",
+  "name": "chrisgeru-world",
   "version": "0.2.1",
   "dependencies": {
     "react": "^16.6.3",
@@ -20,5 +20,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "gitHead": "4c1b2dec8581afee9b8e7447413e75cb62276cc7"
 }
